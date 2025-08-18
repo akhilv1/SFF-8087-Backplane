@@ -1,0 +1,13 @@
+Qty,Value,Device,Parts,Description,Link
+1,691243410005    ,691243410005    ,J9,7.62mm Pitch Rising Clamp Connector,
+8,10uF,CAP_CERAMIC0805,"C5, C6, C7, C8, C9, C10, C11, C12",SMD Capacitors 0805 10uF,
+3,,CONN_04POLAR_LOCK,"FAN_0, FAN_1, PWM_IN",Fan Headers 2.54mm Pitch,
+4,,SWITCH-SPDT-PTH-11.6X4.0MM-LOCK,"S1, S2, S3, S4",Fan Mode Switches,
+6,100uF,100UF-POLAR-25V-20%(ELEC),"C1, C2, C3, C4, C13, C14",100uF Electrolytic Capacitors,
+4,1735284-3,TE_1735284-2,"SATA0, SATA1, SATA2, SATA3",Right Angle SATA Connectors,https://a.aliexpress.com/_mtHZzUZ
+1,1888019-4,TE_1888019-4,SFF-8087,SFF-8087 SMD Connector,
+1,39301060,39301060,POWER,Molex Mini-Fit JR 6-pin 90Deg,
+1,5V_DC_DC,5V_DC_DC,BUCK,5v Step Down Converter (12v only input configuration),https://a.aliexpress.com/_mOm8TaH
+1,694106301002    ,694106301002    ,J4,DC Barrel Power Jack 6.4mm Diam,
+2,B3P-VH(LF)(SN),B3P-VH(LF)(SN),"J5, J7",JST-VH Connectors,
+3,SATAPWR,SATAPWR,"J1, J2, J8",SATA Power Input Through Hole,https://a.aliexpress.com/_msddJj7
